@@ -89,11 +89,16 @@ left:87px;
 .time-lapsed {
   font-size: .7rem;
   position: absolute;
+  bottom: 1em;
+  left:0;
+  background: red;
 }
 
 .time-total {
   font-size: .7rem;
   position: absolute;
+  bottom: 1em;
+  background: red;
 }
 
 .controls {
