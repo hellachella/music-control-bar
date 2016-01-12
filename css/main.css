@@ -105,15 +105,19 @@ left:87px;
 
 .control-shuffle {
   position: absolute;
-
+  top: 0;
+left: 87px;
 }
 
 .control-list {
   position: absolute;
-
+  top: 0;
+  right: 0;
 }
 
 .control-heart {
   position: absolute;
+  top: 0;
+  right: 10%;
 
 }
