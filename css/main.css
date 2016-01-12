@@ -104,13 +104,16 @@ left:87px;
 }
 
 .control-shuffle {
+  position: absolute;
 
 }
 
 .control-list {
+  position: absolute;
 
 }
 
 .control-heart {
+  position: absolute;
 
 }
