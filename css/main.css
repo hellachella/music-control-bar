@@ -88,10 +88,12 @@ left:87px;
 
 .time-lapsed {
   font-size: .7rem;
+  position: absolute;
 }
 
 .time-total {
   font-size: .7rem;
+  position: absolute;
 }
 
 .controls {
