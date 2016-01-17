@@ -28,8 +28,6 @@ body {
   background-image: linear-gradient(to bottom, #e2e2e2, #ccc);
   text-align: center;
   color: #333;
-
-
   position: relative;
 }
 
@@ -54,9 +52,8 @@ body {
 }
 
 .time {
-
-width: 100%;
-left: 50px;
+width:  100%;
+left:  50px;
 }
 
 .time-bar {
