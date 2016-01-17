@@ -30,7 +30,7 @@ body {
   color: #333;
 
 
-  position:relative;
+  position: relative;
 }
 
 .song {
@@ -54,8 +54,7 @@ body {
 }
 
 .time {
-position: absolute;
-bottom: 0;
+
 width: 100%;
 left:50px;
 }
@@ -90,16 +89,14 @@ left:50px;
   font-size: .7rem;
   position: absolute;
   bottom: 1em;
-  left:0;
-  background: red;
+  left: 6em;
 }
 
 .time-total {
   font-size: .7rem;
   position: absolute;
   bottom: 1em;
-  background: red;
-
+  right: 1em;
 }
 
 .controls {
@@ -115,7 +112,7 @@ left:50px;
   position: absolute;
   top: 5px;
   font-size: .7em;
-  left: 50px
+  left: 3.5em;
 }
 
 .control-list {
