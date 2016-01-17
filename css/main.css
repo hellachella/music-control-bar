@@ -48,12 +48,11 @@ body {
   left: 0;
   top: 0;
   height: 100%;
-
 }
 
 .time {
-width: 100%;
-left: 50px;
+  width: 100%;
+  left: 50px;
 }
 
 .time-bar {
